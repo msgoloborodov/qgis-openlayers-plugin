@@ -1,3 +1,5 @@
+Fork of {qgis-openlayers-plugin}[https://github.com/sourcepole/qgis-openlayers-plugin] with {Yandex Maps}[http://maps.yandex.ru] tiles.
+
 =qgis-openlayers-plugin
 
 qgis-openlayers-plugin is a QGIS[http://www.qgis.org/] plugin embedding OpenLayers functionality.
